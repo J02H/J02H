@@ -2,7 +2,7 @@
 <h3>🍀 Me 🍀</h3>
 <p>Hi There! I'm HYUN HO CHO.</p>
 <p> My main skills are HTML, CSS, JavaScript and React.</p>
-<p>I want to be a Honey badger, because it goes its own way. 🦛</p>
+<p>I want to be a Honey badger, cause it goes its own way. 🦛</p>
   
 #
 <h3>❤️ I love...</h3>
