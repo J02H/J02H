@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/BATTLEGROUND-FFD400?style=flat&logo=appveyor&logo=html5&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/APEX-CC0000?style=flat&logo=appveyor&logo=html5&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/LOSTARK-FFCC33?style=flat&logo=appveyor&logo=html5&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/DIABLO 3-333333?style=flat&logo=appveyor&logo=html5&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-DIABLO 3-333333?style=flat&logo=Battle.net&logoColor=white"/>&nbsp;&nbsp;
 
 #
 <h3>🔥 Tech Stack 🔥</h3>
