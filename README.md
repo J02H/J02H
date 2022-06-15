@@ -12,7 +12,7 @@
 
 #
   <h3> 🎰 I played this Games! </h3>
-  <p> <img src="https://img.shields.io/badge/HTML5-FA4454?style=flat&logo=appveyor&logo=html5&logoColor=red"/>
+  <p> <img src="https://img.shields.io/badge/VALORANT-FA4454?style=flat&logo=appveyor&logo=html5&logoColor=red"/>
   <p>  League Of Legends, OVERWATCH, BATTLEGROUND, APEX Legends, Rainbow Six Siege, VALORANT, LOSTARK </p>
 
 #
