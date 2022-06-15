@@ -3,7 +3,7 @@
 <p>Hi There! I'm HYUN HO CHO.</p>
 <p> My main skills ) HTML, CSS, JavaScript and React.</p>
 <p> My Dream ) Honey badger, cause it goes its own way. 🦛</p>
-<p> MBTI )ISTP.
+<p> MBTI ) ISTP
   
 #
 <h3>❤️ I love...</h3>
