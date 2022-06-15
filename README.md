@@ -12,13 +12,13 @@
 
 #
   <h3> 🎰 I played this Games! </h3>
-  <p> <img src="https://img.shields.io/badge/-VALORANT-FA4454?style=flat&logo=appveyor&logo=html5&logoColor=pink-red"/>&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/LOL-374d9a?style=flat&logo=appveyor&logo=html5&logoColor=crowdflower"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/OVERWATCH-FA9C1D?style=flat&logo=appveyor&logo=html5&logoColor=orange"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/BATTLEGROUND-FFD400?style=flat&logo=appveyor&logo=html5&logoColor=yellow"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/APEX-CC0000?style=flat&logo=appveyor&logo=html5&logoColor=red"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/LOSTARK-FFCC33?style=flat&logo=appveyor&logo=html5&logoColor=yellow"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/DIABLO 3-333333?style=flat&logo=appveyor&logo=html5&logoColor=gray"/>&nbsp;&nbsp;
+  <p> <img src="https://img.shields.io/badge/-VALORANT-FA4454?style=flat&logo=appveyor&logo=html5&logoColor=white"/>&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/LOL-374d9a?style=flat&logo=appveyor&logo=html5&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/OVERWATCH-FA9C1D?style=flat&logo=appveyor&logo=html5&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/BATTLEGROUND-FFD400?style=flat&logo=appveyor&logo=html5&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/APEX-CC0000?style=flat&logo=appveyor&logo=html5&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LOSTARK-FFCC33?style=flat&logo=appveyor&logo=html5&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/DIABLO 3-333333?style=flat&logo=appveyor&logo=html5&logoColor=white"/>&nbsp;&nbsp;
 
 #
 <h3>🔥 Tech Stack 🔥</h3>
