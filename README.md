@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Hyun Ho Cho!
 ### My main skills are HTML/CSS, JAVA, JAVASCRIPT and React.
 ### I want to be like a honey badger. 🦛
-
+### ---------------------------------------------------------
 ### 💕 I like this things
 ### 💪Exercise, 🎧Music, ⚾Baseball, 🎮Games
 
