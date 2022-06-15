@@ -13,7 +13,7 @@
 #
   <h3> 🎰 I played this Games! </h3>
     <img src="https://img.shields.io/badge/-VALORANT-FA4454?style=flat&logo=Valorant&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-LOL-D32936?style=flat&logo=Riot Games&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-League Of Legends-D32936?style=flat&logo=Riot Games&logoColor=white"/>
     <img src="https://img.shields.io/badge/OVERWATCH-FA9C1D?style=flat&logo=appveyor&logo=html5&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/BATTLEGROUND-FFD400?style=flat&logo=appveyor&logo=html5&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/APEX-CC0000?style=flat&logo=appveyor&logo=html5&logoColor=white"/>&nbsp;&nbsp;
