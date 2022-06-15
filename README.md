@@ -2,6 +2,9 @@
 ### My main skills are HTML/CSS, JAVA, JAVASCRIPT and React.
 ### I want to be like a honey badger. 🦛
 
+### 💕 I like this things
+### 💪Exercise, 🎧Music, ⚾Baseball, 🎮Games
+
 <!--
 **J02H/J02H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
