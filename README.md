@@ -17,6 +17,7 @@
     <img src="https://img.shields.io/badge/OVERWATCH-orange?style=flat&logo=appveyor&logo=html5&logoColor=FA9C1D"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/BATTLEGROUND-yellow?style=flat&logo=appveyor&logo=html5&logoColor=FFD400"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/APEX-red?style=flat&logo=appveyor&logo=html5&logoColor=CC0000"/>&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/LOSTARK-yellow?style=flat&logo=appveyor&logo=html5&logoColor=FFCC33"/>&nbsp;&nbsp;
   <p>   APEX Legends, Rainbow Six Siege, LOSTARK </p>
 
 #
