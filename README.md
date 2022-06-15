@@ -7,7 +7,7 @@
   
 #
 <h3>❤️ I love...</h3>
-<p>💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;🎮Games,&nbsp;&nbsp;🎧Music </p>
+<p>💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;🎮Games,&nbsp;&nbsp;🎧Music,&nbsp;&nbsp;⚾Baseball </p>
   
 #
 <h3>🔥 Tech Stack 🔥</h3>
