@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Hyun Ho Cho!
+### My main skills are HTML/CSS, JAVA, JAVASCRIPT and React.
+### I want to be like a honey badger.
 
 <!--
 **J02H/J02H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
