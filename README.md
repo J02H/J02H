@@ -13,8 +13,9 @@
 #
   <h3> 🎰 I played this Games! </h3>
   <p> <img src="https://img.shields.io/badge/VALORANT-red?style=flat&logo=appveyor&logo=html5&logoColor=FA4454"/>&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/LOL-navy?style=flat&logo=appveyor&logo=html5&logoColor=FA4454"/>
-    <img src="https://img.shields.io/badge/OVERWATCH-orange?style=flat&logo=appveyor&logo=html5&logoColor=FA9C1D"/>
+   <img src="https://img.shields.io/badge/LOL-navy?style=flat&logo=appveyor&logo=html5&logoColor=FA4454"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/OVERWATCH-orange?style=flat&logo=appveyor&logo=html5&logoColor=FA9C1D"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/BATTLEGROUND-yellow?style=flat&logo=appveyor&logo=html5&logoColor=FFD400"/>&nbsp;&nbsp;
   <p>  League Of Legends, OVERWATCH, BATTLEGROUND, APEX Legends, Rainbow Six Siege, VALORANT, LOSTARK </p>
 
 #
