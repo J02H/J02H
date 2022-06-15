@@ -1,9 +1,9 @@
 <div align="center">
 <h3>🍀 Me 🍀</h3>
 <p>Hi There! I'm HYUN HO CHO.</p>
-<p> My main skills are HTML, CSS, JavaScript and React.</p>
-<p>I want to be a Honey badger, cause it goes its own way. 🦛</p>
-<p> My MBTI is ISTP.
+<p> My main skills ) HTML, CSS, JavaScript and React.</p>
+<p> My Dream ) Honey badger, cause it goes its own way. 🦛</p>
+<p> MBTI )ISTP.
   
 #
 <h3>❤️ I love...</h3>
