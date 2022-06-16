@@ -2,7 +2,7 @@
 <h3>🍀 Me 🍀</h3>
 <p>Hi There! I'm HYUN HO CHO.</p>
 <p> MBTI : ISTP
-<p> My main skills : HTML, CSS, JavaScript and React.</p>
+<p> My main skills : ,Java, Javascript, HTML & CSS and React.</p>
 <p> My Dream : Honey badger, cause it goes its own way. 🦛</p>
 
   
