@@ -3,8 +3,6 @@
 <p>Hi There! I'm HYUN HO CHO.</p>
 <p> MBTI : ISTP
 <p> My main skills : Java, Javascript, HTML & CSS and React.</p>
-<p> I want to be a Honey badger, cause it goes its own way. 🦛</p>
-
   
 #
 <h3>❤️ I love...</h3>
