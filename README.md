@@ -2,7 +2,7 @@
 <h3>🍀 Me 🍀</h3>
 <p>Hi There! I'm HYUNO.</p>
 <p> MBTI : ENTP
-<p> My main skills : Java, Javascript, HTML & CSS and React.</p>
+<p> My main skills : Java, C, Python, HTML & CSS and React.</p>
   
 #
 <h3>❤️ I love...</h3>
