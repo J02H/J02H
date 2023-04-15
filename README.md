@@ -1,7 +1,7 @@
 <div align="center">
 <h3>🍀 Me 🍀</h3>
 <p>Hi There! I'm HYUNO.</p>
-<p> MBTI : ISTP
+<p> MBTI : ENTP
 <p> My main skills : Java, Javascript, HTML & CSS and React.</p>
   
 #
