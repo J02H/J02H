@@ -2,19 +2,12 @@
 <h3>🍀 Me 🍀</h3>
 <p>Hi There! I'm HYUNO.</p>
 <p> MBTI : ENTJ/P
-<p> My main skills : Java, C, Python, HTML & CSS and React.</p>
+<p> Major : Computering Science</p>
+<p> Studied : AWS, Java, Python, C, HTML&CSS, JavaScript, Spring, R, Linux, Network, Algorithm, OS, DB ... etc.</p>
   
 #
 <h3>❤️ I love...</h3>
 <p>💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;🎮Games,&nbsp;&nbsp;🎧Music,&nbsp;&nbsp;⚾Baseball </p>
-
-#
-  <h3> 🎰 I played this Games! </h3>
-    <img src="https://img.shields.io/badge/-VALORANT-FA4454?style=flat&logo=Valorant&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-League Of Legends-D32936?style=flat&logo=Riot Games&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-OVERWATCH-148EFF?style=flat&logo=Battle.net&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-DIABLO 3-333333?style=flat&logo=Battle.net&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-BATTLEGROUND-FFD400?style=flat&logo=&logoColor=white"/>&nbsp;&nbsp;
   
 #
 <h3>🔥 Tech Stack 🔥</h3>
