@@ -15,12 +15,7 @@
 
 ## 🔥 대표 프로젝트 (Pinned)
 | 프로젝트 | 설명 | 기술스택 | 링크 |
-|---|---|---|---|
-| **FanBase** | 야구 팬 커뮤니티 웹/앱(구단별 게시판, 인증/결제, 표 거래) | Next.js/React, Node, Prisma, PostgreSQL, AWS | [Repo](#) · [Demo](#) |
-| **OS Shell** | 학습용 미니 쉘 구현(파싱/파이프/리다이렉션) | C, Linux, Process/Thread | [Repo](#) |
-| **DB Mini-Project** | 관계 모델·조인 학습용 미니 서비스 | Java, Spring, JPA, MySQL | [Repo](#) |
 
-> 포인트: 각 링크에 **데모 영상/스크린샷** 꼭 넣기!
 
 ---
 
