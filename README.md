@@ -13,12 +13,6 @@
 
 ---
 
-## 🔥 대표 프로젝트 (Pinned)
-| 프로젝트 | 설명 | 기술스택 | 링크 |
-
-
----
-
 ## 🧰 Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
