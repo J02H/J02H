@@ -29,9 +29,5 @@
 
 ---
 
-## 📊 Stats & 활동
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_ID&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact&hide_border=true)
-
 <!-- 선택: 활동 메트릭 자동 생성 -->
 <!-- https://github.com/lowlighter/metrics 참고 -->
